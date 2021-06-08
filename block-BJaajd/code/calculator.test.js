@@ -1,5 +1,0 @@
-const calculator = require('./calculator');
-
-
-
-
